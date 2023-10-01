@@ -1,4 +1,4 @@
- ![MasterHead](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/06/08121338/shutterstock_1714491562.jpg)
+ !MasterHead(https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/06/08121338/shutterstock_1714491562.jpg)
 <h1 align="center">Hi 👋, I'm Ramal Ismayilzade</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
