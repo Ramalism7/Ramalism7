@@ -1,4 +1,4 @@
- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1694044800&v=beta&t=zr4ocpFETLMm0fzf01dNZDsQgzzfajZuJSEtGUgWh70)
+ [![MasterHead](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/06/08121338/shutterstock_1714491562.jpg)
 <h1 align="center">Hi 👋, I'm Ramal Ismayilzade</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
